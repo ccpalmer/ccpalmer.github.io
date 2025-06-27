@@ -39,4 +39,4 @@ Favorite quote:
 
 I'm married to [Elaine R. Palmer](https://research.ibm.com/people/elaine-palmer), a remarkable security nerd also at [IBM Research](http://www.research.ibm.com). We have three sons aged 23, 20, and 20, and two looney Labradoodles.
 
-My outside hobbies include amateur [astronomy/astrophotography](CCP in Pod.jpeg). competitive marksmanship, and my family.
+My outside hobbies include amateur [astronomy/astrophotography](assets/img/CCP in Pod.jpeg). competitive marksmanship, and my family.
