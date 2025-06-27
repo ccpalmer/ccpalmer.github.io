@@ -25,6 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+![Site Under Construction!](assets/img/under_construction.png)
+
 I’m an Adjunct Instructor in the Computer Science department here at Southern New Hampshire
 University.
 
