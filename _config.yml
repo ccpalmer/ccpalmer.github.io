@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Charles' home page # the website title (if blank, full name will be used instead)
+title: My home page # the website title (if blank, full name will be used instead)
 first_name: Charles
-middle_name: C.
+middle_name: C
 last_name: Palmer
 contact_note: >
   Best way to reach me is via email.
