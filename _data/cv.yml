@@ -1,3 +1,6 @@
+# My CV information in YAML format
+# This file is used to generate the CV page on my website
+
 - title: General Information
   type: map
   contents:
