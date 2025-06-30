@@ -83,12 +83,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-first-day-of-fall-2025-classes-tada",
+      },{id: "news-first-day-of-fall-2025-classes-tada",
           title: 'First day of Fall 2025 classes ! :tada:',
           description: "",
           section: "News",},{id: "projects-project-1",
