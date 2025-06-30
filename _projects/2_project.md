@@ -3,7 +3,6 @@ layout: page
 title: project 5
 description: Punkin Palmer Memorial Observatory
 img: assets/img/CCP\ in\ Pod.jpeg
-importance: 3
 category: fun
 ---
 

@@ -3,9 +3,7 @@ layout: page
 title: project 1
 description: BRASS: Building Reliable And Secure Systems (with Rust)
 img: assets/img/BrassCrab1.png
-importance: 1
 category: work
-related_publications: true
 ---
 
 Modern society depends on software. Telecommunications, commerce, medical systems, transportation,
