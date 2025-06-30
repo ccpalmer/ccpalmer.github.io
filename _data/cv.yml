@@ -6,8 +6,8 @@
   contents:
     - name: Full Name
       value: Charles C Palmer
-#    - name: Date of Birth
-#      value: 14th March 1879
+    #    - name: Date of Birth
+    #      value: 14th March 1879
     - name: Languages
       value: English
 
@@ -34,10 +34,10 @@
       institution: Dartmouth College
       year: 2010
       description:
-        - Teaching Various computer science courses, including: 
+        - Teaching Various computer science courses, including:
         - contents:
             - Databases Systems (design, SQL, MongoDB)
-            - Cognitive Computing 
+            - Cognitive Computing
             - BRASS: Building Reliable And Secure Systems
             - Security and Privacy
             - Software Design & Implementation (with C, Linux, git)
@@ -55,7 +55,7 @@
       institution: Polytechnic Institute of New York
       year: 1994
       description:
-        - Teaching Various computer science courses, including: 
+        - Teaching Various computer science courses, including:
         - contents:
             - C++ and Advanced C++
             - Java Programming and Advanced Java Programming
