@@ -19,13 +19,18 @@
       year: 1995
       description:
         - PhD Computer Science
-        - thesis: An approach to network design problems using genentic algorithms
-    - title: M.S.
+        - Thesis "An approach to network design problems using genentic algorithms"
+    - title: MS
       institution: Tulane University
       year: 1984
       description:
         - MS in Computer Science
-        - thesis: Using AI to produce halftime marching shows
+        - Thesis "Using AI to produce marching band halftime shows"
+    - title: BS
+      institution: Oklahome State University
+      year: 1978
+      description:
+        - BS in Computer Science
 
 - title: Experience
   type: time_table
@@ -33,40 +38,38 @@
     - title: Senior Lecturer
       institution: Dartmouth College
       year: 2010
-      description:
-        - Teaching Various computer science courses, including:
-        - contents:
-            - Databases Systems (design, SQL, MongoDB)
-            - Cognitive Computing
-            - BRASS: Building Reliable And Secure Systems
-            - Security and Privacy
-            - Software Design & Implementation (with C, Linux, git)
-
+      description: Teaching Various computer science courses, including<br/>
+          <ul><li>Databases Systems (design, SQL, MongoDB)</li>
+          <li>Cognitive Computing</li>
+          <li>BRASS - Building Reliable And Secure Systems</li>
+          <li>Security and Privacy</li>
+          <li>Software Design & Implementation (with C, Linux, git)</li>
+          </ul>
     - title: Distinguished Research Staff Member
       institution: IBM Research, Thomas J. Watson Research Center
       year: 1984
-      description:
-        - Software development tools and techniques
-        - Network design and security
-        - Security and privacy (Director)
-        - CTO, Security and privacy
+      description: Various projects, related to<br/>
+          <ul><li>Software development tools and techniques</li>
+          <li>Network design and security</li>
+          <li>Security and privacy (Director)</li>
+          <li>CTO, Security and privacy</li></ul>
 
     - title: Adjunct professor
       institution: Polytechnic Institute of New York
       year: 1994
-      description:
-        - Teaching Various computer science courses, including:
-        - contents:
-            - C++ and Advanced C++
-            - Java Programming and Advanced Java Programming
-            - Evolutionary Computation
+      description: Teaching Various computer science courses, including<br/>
+          <ul><li>Software Design & Implementation (with C, Linux, git)</li>
+          <li>C++ and Advanced C++</li>
+          <li>Java Programming and Advanced Java Programming</li>
+          <li>Evolutionary Computation</li></ul>
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Secure software design and implementation
+    - title: Security & Privacy (Cybersecurity)
     - title: Rust programming language
-    - title: computer science education
+    - title: Computer science education
 
 - title: Other Interests
   type: list

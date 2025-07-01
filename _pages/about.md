@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-![Site Under Construction!](assets/img/under_construction.png)
+<!-- ![Site Under Construction!](assets/img/under_construction.png) -->
 
 I’m an Adjunct Instructor in the Computer Science department here at Southern New Hampshire
 University.
@@ -40,4 +40,6 @@ Favorite quote:
 
 I'm married to [Elaine R. Palmer](https://research.ibm.com/people/elaine-palmer), a remarkable security nerd also at [IBM Research](http://www.research.ibm.com). We have three sons aged 23, 20, and 20, and two looney Labradoodles.
 
-My outside hobbies include amateur [astronomy/astrophotography](assets/img/CCP in Pod.jpeg). competitive marksmanship, and my family.
+My outside hobbies include amateur [astronomy/astrophotography][PPMO], competitive marksmanship, and my family.
+
+[PPMO]: assets/img/CCP_in_Pod.jpeg

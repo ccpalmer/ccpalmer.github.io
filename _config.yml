@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: My home page # the website title (if blank, full name will be used instead)
+title: Charles Palmer's home page # the website title (if blank, full name will be used instead)
 first_name: Charles
 middle_name: C
 last_name: Palmer
@@ -15,6 +15,8 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  <a href="mailto:{{site.data.socials.email}}?Subject=Problem on home page {{page.url}} from {{site.time}} .">Click here to report a problem with this page</a>
+
 keywords: ccpalmer, computer science, adjunct, SNHU, Dartmouth, IBM Research, cybersecurity, Rust
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

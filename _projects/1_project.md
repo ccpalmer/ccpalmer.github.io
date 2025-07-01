@@ -1,8 +1,9 @@
 ---
 layout: page
 title: project 1
-description: BRASS: Building Reliable And Secure Systems (with Rust)
-img: assets/img/BrassCrab1.png
+description: BRASS - Building Reliable And Secure Systems
+img: assets/img/BrassCrab1.jpeg
+importance: 1
 category: work
 ---
 

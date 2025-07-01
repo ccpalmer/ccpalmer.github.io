@@ -15,6 +15,7 @@
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
       {{ footer_contents }}
+      <p><a href="mailto:{{site.data.socials.email}}?Subject=Problem on home page {{page.url}} from {{site.time}} .">Click here to report a problem with this page</a>
     </div>
   </footer>
 {% else %}
@@ -25,6 +26,8 @@
 
     <div class="container">
       {{ footer_contents }}
+      <p><a href="mailto:{{site.data.socials.email}}?Subject=Problem on home page {{page.url}} from {{site.time}} .">Click here to report a problem with this page</a>
+
     </div>
   </footer>
 {% endif %}
