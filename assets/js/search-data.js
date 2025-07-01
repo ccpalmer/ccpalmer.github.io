@@ -44,19 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-courses",
+          title: "courses",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -86,13 +79,13 @@ ninja.data = [{
       },{id: "news-first-day-of-fall-2025-classes-tada",
           title: 'First day of Fall 2025 classes ! :tada:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-project-1",
+          title: 'project 1',
+          description: "BRASS - Building Reliable And Secure Systems",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
+            },},{id: "projects-project-2",
+          title: 'project 2',
           description: "Punkin Palmer Memorial Observatory",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
@@ -101,7 +94,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("https://https://bsky.app/drcybersecurity.bsky.social", "_blank");
+          window.open("https://drcybersecurity.bsky.social", "_blank");
         },
       },{
         id: 'social-email',
@@ -122,7 +115,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/charlescpa", "_blank");
+          window.open("https://www.linkedin.com/in/charlescpalmer", "_blank");
         },
       },{
         id: 'social-orcid',
