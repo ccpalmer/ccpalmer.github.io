@@ -13,8 +13,8 @@ The observatory is housed in a [SkyShedPod](https://skyshedpod.com/?v=05c7c5a71e
 The equipment in the observatory:
 
 - TPO Ultrawide 180 (for learning)
-- Celestron SCT  11" + Hyperstar on a CGX mount
+- Celestron SCT 11" + Hyperstar on a CGX mount
 - ZWO ASI 183 PRO, QHY-5ii guidescope
-- PC/Windows running N.I.N.A.and 
+- PC/Windows running N.I.N.A.and
 - Astroberry+Kstars/Ekos occasionally
 - Remotely operated via Microsoft Remove Desktop

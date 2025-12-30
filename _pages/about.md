@@ -35,7 +35,7 @@ in software, networking, security, and privacy for 39 years.
 Favorite quote:
 
 > I never lose, I either win or learn.
->  
+>
 > -- Nelson Mandela
 
 I'm married to [Elaine R. Palmer](https://research.ibm.com/people/elaine-palmer), a remarkable security nerd also at [IBM Research](http://www.research.ibm.com). We have three sons aged 23, 20, and 20, and two looney Labradoodles.

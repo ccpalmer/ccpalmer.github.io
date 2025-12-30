@@ -33,6 +33,7 @@ Dartmouth. Other guidance came from ... and Norberto Leite of the MongoDB team.
 The instructor is deeply indebted to these outstanding educators.
 
 ---
+
 ---
 
 ## Courses I taught at Dartmouth
@@ -43,17 +44,17 @@ The instructor is deeply indebted to these outstanding educators.
 
 Debut offering: Spring 2025
 
-  Modern society depends on software. Telecommunications, commerce, medical systems, transportation,
-  energy production and  distribution, government, and operation and management of critical
-  infrastructures are a few examples where lives and livelihoods depend on the reliable operation of
-  software. For something so vital to everyday lives around the world, software is often fragile,
-  resulting in unexpected results or complete failures. This also makes software a target of those
-  hoping to capitalize on this fragility for criminal activities, influence or notoriety, or
-  disruption. This course will explore modern techniques for building software systems that are
-  reliable, resilient, and secure. The primary topics will include the Rust programming language
-  along with software build systems and the DevOps/DevSecOps methodologies.
+Modern society depends on software. Telecommunications, commerce, medical systems, transportation,
+energy production and distribution, government, and operation and management of critical
+infrastructures are a few examples where lives and livelihoods depend on the reliable operation of
+software. For something so vital to everyday lives around the world, software is often fragile,
+resulting in unexpected results or complete failures. This also makes software a target of those
+hoping to capitalize on this fragility for criminal activities, influence or notoriety, or
+disruption. This course will explore modern techniques for building software systems that are
+reliable, resilient, and secure. The primary topics will include the Rust programming language
+along with software build systems and the DevOps/DevSecOps methodologies.
 
-### COSC 50 Software Design and Implementation  
+### COSC 50 Software Design and Implementation
 
 Previously offered: _2012, 2013, 2015, 2016, 2018, 2021, 2022, Winter 2023,
 Spring 2023, Fall 2023, Winter 2024, Spring 2024, and Fall 2024_.
@@ -86,4 +87,3 @@ complex information structures as well as algorithms for processing
 these structures efficiently and for retrieving the information they
 contain. The course does include some programming. Topics include
 Relational Databases as well as NOSQL (Not Only SQL) data stores.
-

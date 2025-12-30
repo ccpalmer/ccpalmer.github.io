@@ -39,29 +39,29 @@
       institution: Dartmouth College
       year: 2010
       description: Teaching Various computer science courses, including<br/>
-          <ul><li>Databases Systems (design, SQL, MongoDB)</li>
-          <li>Cognitive Computing</li>
-          <li>BRASS - Building Reliable And Secure Systems</li>
-          <li>Security and Privacy</li>
-          <li>Software Design & Implementation (with C, Linux, git)</li>
-          </ul>
+        <ul><li>Databases Systems (design, SQL, MongoDB)</li>
+        <li>Cognitive Computing</li>
+        <li>BRASS - Building Reliable And Secure Systems</li>
+        <li>Security and Privacy</li>
+        <li>Software Design & Implementation (with C, Linux, git)</li>
+        </ul>
     - title: Distinguished Research Staff Member
       institution: IBM Research, Thomas J. Watson Research Center
       year: 1984
       description: Various projects, related to<br/>
-          <ul><li>Software development tools and techniques</li>
-          <li>Network design and security</li>
-          <li>Security and privacy (Director)</li>
-          <li>CTO, Security and privacy</li></ul>
+        <ul><li>Software development tools and techniques</li>
+        <li>Network design and security</li>
+        <li>Security and privacy (Director)</li>
+        <li>CTO, Security and privacy</li></ul>
 
     - title: Adjunct professor
       institution: Polytechnic Institute of New York
       year: 1994
       description: Teaching Various computer science courses, including<br/>
-          <ul><li>Software Design & Implementation (with C, Linux, git)</li>
-          <li>C++ and Advanced C++</li>
-          <li>Java Programming and Advanced Java Programming</li>
-          <li>Evolutionary Computation</li></ul>
+        <ul><li>Software Design & Implementation (with C, Linux, git)</li>
+        <li>C++ and Advanced C++</li>
+        <li>Java Programming and Advanced Java Programming</li>
+        <li>Evolutionary Computation</li></ul>
 
 - title: Academic Interests
   type: nested_list
