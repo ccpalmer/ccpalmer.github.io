@@ -10,29 +10,28 @@ nav_order: 6
 
 #### ![right arrow](../assets/img/comic_right_arrow.png) <big>**CS 465 Full Stack**</big>
 
-##### Offered: Fall 2025
+##### Offered: Fall 2025, ,Fall 2026
 
 This is a new hands-on course where we introduce students to leading-edge techniques for fulll-stack
 web development. The class is an intense adventure requiring participation inside and outside of
 class. There will be project assignments, in-class activities, and a collaborative final project.
 
-The focus will be on the MERN stack, which is composed of MongoDB, Express.js, React, and Node.js.
+The focus will be on the JavaScript, React, Express, and Node.js, with a healthy dose of git.
 Students will use JavaScript for both the front-end (user interface) and back-end (server-side logic
-and database interactions).
+and transaction management).
 
 **Topics include:** static pages, Internet protocols, layout, markup, event-driven asynchronous
-programming, testing, deployment, security & privacy, scalability, and user experience.
+programming, testing, deployment, security & privacy, scalability, accessibility, and user experience.
 
 **Prerequisites**: CS 340
 
-##### Acknowledgements
+Acknowledgements:  This new course is heavily influenced by Tim Tregubov's CS52 FullStack Web
+Development course at Dartmouth. I am deeply indebted to Tim for his guidance and his example of
+outstanding teaching.
 
-This new course is heavily influenced by Tim Tregubov's CS52 FullStack Web Development course at
-Dartmouth. Other guidance came from ... and Norberto Leite of the MongoDB team.
+#### ![right arrow](../assets/img/comic_right_arrow.png) <big>**CS 305 Software Security**</big>
 
-The instructor is deeply indebted to these outstanding educators.
-
-### Offered: Spring 2026
+##### Offered: Spring 2026
 
 Modern society depends on software. Telecommunications, commerce, medical systems, transportation,
 energy production and distribution, government, and operation and management of critical
@@ -99,3 +98,5 @@ complex information structures as well as algorithms for processing
 these structures efficiently and for retrieving the information they
 contain. The course does include some programming. Topics include
 Relational Databases as well as NOSQL (Not Only SQL) data stores.
+
+---
