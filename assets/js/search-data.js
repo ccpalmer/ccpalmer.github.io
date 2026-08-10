@@ -76,11 +76,8 @@ ninja.data = [{
             window.location.href = "/blog/2025/Hello/";
           
         },
-      },{id: "news-first-day-of-fall-2025-classes-tada",
-          title: 'First day of Fall 2025 classes ! :tada:',
-          description: "",
-          section: "News",},{id: "news-first-day-of-spring-2025-classes-tada-teaching-full-stack-dev-amp-amp-software-security",
-          title: 'First day of Spring 2025 classes ! :tada: Teaching Full Stack Dev &amp;amp;amp;...',
+      },{id: "news-first-day-of-fall-2026-classes-tada",
+          title: 'First day of Fall 2026 classes ! :tada:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
