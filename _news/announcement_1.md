@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-02 11:00:00-0400
+date: 2026-09-01 14:00:00-0400
 inline: true
 related_posts: false
 ---
 
-First day of Fall 2025 classes ! :tada:
+First day of Fall 2026 classes ! :tada:

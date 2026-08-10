@@ -38,8 +38,10 @@ Favorite quote:
 >
 > -- Nelson Mandela
 
-I'm married to [Elaine R. Palmer](https://research.ibm.com/people/elaine-palmer), a remarkable security nerd also at [IBM Research](http://www.research.ibm.com). We have three sons aged 23, 20, and 20, and two looney Labradoodles.
+I'm married to [Elaine R. Palmer](https://research.ibm.com/people/elaine-palmer), a remarkable security nerd also at [IBM Research](http://www.research.ibm.com). We have three sons aged 24, 21, and 21, and a looney Labradoodle.
 
-My outside hobbies include amateur [astronomy/astrophotography][PPMO], competitive marksmanship, and my family.
+My outside hobbies include my family, [astronomy/astrophotography][PPMO], competitive marksmanship,
+and continuous property maintenance along with the requisite diesel tractor & all its implements for
+year-round entertainment!
 
 [PPMO]: assets/img/CCP_in_Pod.jpeg
