@@ -1,9 +1,9 @@
 github_users:
-  - ccpalmer
+- ccpalmer
 
 repo_description_lines_max: 2
 
 github_repos:
-  - ccpalmer
-  - ccpalmer/SNHU-CS465-SP26
-  - ccpalmer/CS-305-SNHU
+- ccpalmer
+- ccpalmer/SNHU-CS465-SP26
+- ccpalmer/CS-305-SNHU
