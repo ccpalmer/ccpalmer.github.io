@@ -1,8 +1,9 @@
 github_users:
-  - torvalds
+  - ccpalmer
 
 repo_description_lines_max: 2
 
 github_repos:
-  - ccpalmer/ccpalmer.github.io
-  - jekyll/jekyll
+  - ccpalmer
+  - ccpalmer/SNHU-CS465-SP26
+  - ccpalmer/CS-305-SNHU
