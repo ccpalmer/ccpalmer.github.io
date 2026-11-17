@@ -10,7 +10,7 @@ nav_order: 6
 
 #### ![right arrow](../assets/img/comic_right_arrow.png) <big>**CS 465 Full Stack**</big>
 
-##### Offered: Fall 2025, ,Fall 2026
+##### Offered: Fall 2025, Spring & Fall 2026, Spring 2027
 
 This is a new hands-on course where we introduce students to leading-edge techniques for fulll-stack
 web development. The class is an intense adventure requiring participation inside and outside of
@@ -31,7 +31,7 @@ outstanding teaching.
 
 #### ![right arrow](../assets/img/comic_right_arrow.png) <big>**CS 305 Software Security**</big>
 
-##### Offered: Spring 2026
+##### Offered: Spring 2026, Spring 2027
 
 Modern society depends on software. Telecommunications, commerce, medical systems, transportation,
 energy production and distribution, government, and operation and management of critical
