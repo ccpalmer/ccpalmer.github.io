@@ -11,6 +11,9 @@ nav_order: 4
 
 ## GitHub users
 
+github_users:
+  - ccpalmer
+
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}
     {% include repository/repo_user.liquid username=user %}
@@ -36,6 +39,12 @@ nav_order: 4
 {% endif %}
 
 {% if site.data.repositories.github_repos %}
+repo_description_lines_max: 2
+
+github_repos:
+
+  - ccpalmer/orgs/SNHU-CS465-SP26/Content
+  - ccpalmer/orgs/Dartmouth-BRASS/repositories
 
 ## GitHub Repositories
 
