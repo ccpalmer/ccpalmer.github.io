@@ -23,14 +23,13 @@ on:
       - "!.github/workflows/deploy-image.yml"
       - "!.github/workflows/docker-slim.yml"
       - "!.github/workflows/lighthouse-badger.yml"
+      - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
       - "!CONTRIBUTING.md"
       - "!CUSTOMIZE.md"
       - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
-#     Was after lighthouse-badger line
-#     - "!.github/workflows/prettier.yml"
   pull_request:
     branches:
       - master
